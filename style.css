@@ -1,0 +1,39 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+}
+.button {
+    height: 44px;
+    width: 68px;
+}
+#green{
+   background-color: green;
+   border: none;
+   color: white;
+   font-weight: 600;
+   cursor: pointer;
+}
+#black{
+   background-color: black;
+   border: none;
+   color: white;
+   font-weight: 600;
+   cursor: pointer;
+}
+#orange{
+   background-color: orange;
+   border: none;
+   color: white;
+   font-weight: 600;
+   cursor: pointer;
+}
+#blue{
+   background-color: blue;
+   border: none;
+   color: white;
+   font-weight: 600;
+   cursor: pointer;
+}
